@@ -1,6 +1,6 @@
 # Gemini CLI
 
-A simple command-line interface for interacting with Google's Gemini AI models. This tool allows you to have conversations with Gemini models directly from your terminal.
+This tool allows you to have conversations with Gemini models directly from your terminal. This is me taking advantage of Google providing Gemini Pro "for free" to students for a the following year. By which I mean, I'm utilizing a Gemini API key to access the Gemini fleet of models. Note that even after your API key has been added that the larger, more powerful models will run through you alotted uses rather quickly. The smaller models are useful and fast enough buf I still prefer models by competitors more. 
 
 ## Features
 
