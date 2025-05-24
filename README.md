@@ -18,6 +18,7 @@ This tool allows you to have conversations with Gemini models directly from your
 - Python 3.7 or higher
 - A Google AI Studio API key
 - Generative AI
+- ChromeDriver
 
 ### Installing from source
 
